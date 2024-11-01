@@ -1,1 +1,6 @@
-![image](https://github.com/user-attachments/assets/650db377-5d6a-4f64-87a3-9088025b88d8)
+1. API작성
+![image](https://github.com/user-attachments/assets/9d1375ea-79c2-414c-a8ef-dc5642a14b4c)
+
+
+2.ERD 작성
+
