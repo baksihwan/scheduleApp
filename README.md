@@ -1,5 +1,6 @@
 1. API 명세서
-![image](https://github.com/user-attachments/assets/9d1375ea-79c2-414c-a8ef-dc5642a14b4c)
+![image](https://github.com/user-attachments/assets/08fba196-9eb5-4052-be24-2a2b59f298c4)
+
 
 
 2.ERD 
