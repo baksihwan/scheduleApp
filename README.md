@@ -4,5 +4,5 @@
 
 2.ERD 
 
-![다운로드1111](https://github.com/user-attachments/assets/6b1abb3e-756e-49c4-b35f-b1f31affb058)
-![22222](https://github.com/user-attachments/assets/1a16de9a-4b64-4f96-bf3c-08d69516e7cc)
+![image](https://github.com/user-attachments/assets/50c24588-66f8-4d8b-8686-a1f81eaffcee)
+![image](https://github.com/user-attachments/assets/21ff48d3-aff9-4ffd-b168-e53e062f4e57)
