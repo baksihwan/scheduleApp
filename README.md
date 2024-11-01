@@ -4,5 +4,5 @@
 
 2.ERD 
 
-![image](https://github.com/user-attachments/assets/50c24588-66f8-4d8b-8686-a1f81eaffcee)
-![image](https://github.com/user-attachments/assets/21ff48d3-aff9-4ffd-b168-e53e062f4e57)
+![image](https://github.com/user-attachments/assets/9e8fbf95-186e-4bbf-87d5-96633292bbef)
+![image](https://github.com/user-attachments/assets/eba536b0-a77b-4fa6-b55d-f522289db52c)
